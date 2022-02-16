@@ -1,0 +1,2 @@
+# HTML-registration-file
+mafo
